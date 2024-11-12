@@ -1,0 +1,1 @@
+https://github.com/pycaret/pycaret/blob/97649adf8965fd02831c14982a48323b6ce7de4c/datasets/bank.csv
